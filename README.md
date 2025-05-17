@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/mMBP1kvpWsk4tro3Vo/giphy.gif?cid=ecf05e47jabxyfypgy7q35z33qjnhf7n5rxw7csoerad2qsd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  
-       width="960" height="250" alt="Animated Pan Banner" />
+  <img src="https://media.giphy.com/media/YZQY3UrqlIJafExvgb/giphy.gif?cid=ecf05e47azy4hdgo4hiw1mkts08b21wqpe790v30mpmvtsfz&ep=v1_gifs_related&rid=giphy.gif&ct=g"  
+       width="1000" height="320" alt="Animated Pan Banner" />
 </p>
 
 # 💻 Nirmala | @nirmalasz
