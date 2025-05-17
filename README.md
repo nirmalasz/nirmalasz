@@ -31,7 +31,7 @@ Learning:   Game Dev (Unity/Godot) | AI | Web Dev
 ```
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Nirmala on LinkedIn]([https://www.linkedin.com/in/your‑profile/](https://www.linkedin.com/in/nirmala-sari-zahiroh-89a5b5322/))  
+- **LinkedIn**: [Nirmala on LinkedIn](https://www.linkedin.com/in/nirmala-sari-zahiroh-89a5b5322/)  
 - **Instagram**: [@nirmalasz](https://www.instagram.com/nirmalasz/)  
 - **Website**: _coming soon_  
 - **Email**: nirmalawilujeng@gmail.com
