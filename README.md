@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/mMBP1kvpWsk4tro3Vo/giphy.gif?cid=ecf05e47jabxyfypgy7q35z33qjnhf7n5rxw7csoerad2qsd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  
+       width="960" height="250" alt="Animated Pan Banner" />
+</p>
+
 # 💻 Nirmala | @nirmalasz
 
 **Computer Engineering Student** at Universitas Indonesia | 🎮 Game Dev Learner | ⚙️ Tech for Social Good Advocate  
