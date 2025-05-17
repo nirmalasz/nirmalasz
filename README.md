@@ -22,7 +22,7 @@ I love exploring:
 - ✍️ **Drawing & Reading** – because tech should be human-centered  
 
 Currently active in:
-- **Exercise FTUI** (Finance & Secretary Staff)  
+- **Exercise FTUI - Finance & Secretary** (Staff)  
 - **BEM FTUI – Kajian dan Aksi Strategis** (Staff)
 
 ---
