@@ -26,5 +26,5 @@ Currently active in:
 
 ```txt
 Languages:  C | Python | HTML | JavaScript
-Tools:      Git | MongoDB | Linux | VS Code
-Learning:   Game Dev (Unity/Godot) | AI | Web Dev | Embedded Systems
+Tools:      Git | MongoDB | VS Code
+Learning:   Game Dev (Unity/Godot) | AI | Web Dev 
